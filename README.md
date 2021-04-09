@@ -16,6 +16,7 @@ Completed for HarvardX's CS50B - Web Development<br>
 <h1>Weebly</h1>
 Completed for NUS SGUS - Optimizing Customer Experience with FinTech Strategy<br>
 A FinTech start-up idea<br>
+Have a go at "Connect With Us" to see how we made use of Zapier to AUTOMATE<br>
 <a href="https://sgusb3group2.weebly.com">NoThrow</a>
 
 <h1>CodePen</h1>
