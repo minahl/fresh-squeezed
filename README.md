@@ -2,6 +2,8 @@
 
 New website made with GitHub Pages
 
-<h1>Oh Wow</h1>
+<h1>MIT Scratch</h1>
 
-This is kind of cool...
+One of the projects completed for HarvardX's CS50 Computer Science for Business Professionals<br>
+Feel free to sing-a-long<br>
+<a href="https://scratch.mit.edu/projects/471819632">Doo doo doo</a>
